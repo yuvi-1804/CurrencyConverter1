@@ -7,6 +7,7 @@ class CurrencyConverter{
 		System.out.println(" dhiram:" +dhiram);
 }
 public static void main(String args[]) {
+	//Adding a comment
 	CurrencyConverter cc= new CurrencyConverter();
         cc.printCurrency();
 }
